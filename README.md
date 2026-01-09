@@ -1,4 +1,3 @@
-# UIUC-path-finder
 
 # OpenMap Nav: Optimal Meeting Point Finder
 
